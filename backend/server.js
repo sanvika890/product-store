@@ -1,4 +1,4 @@
-import express from "express.js";
+import express from "express";
 const app = express();
 import dotenv from "dotenv";
 import path from "path";
